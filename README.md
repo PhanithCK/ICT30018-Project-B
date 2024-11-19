@@ -45,8 +45,6 @@ open terminal at the file directory and run
 ```
 docker compose up
 ```
-
-# Step 3:
 - Access End user page http://localhost:8080
 - Access Admin page: http://localhost:8080/wp-admin/index.php
  
