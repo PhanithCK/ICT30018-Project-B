@@ -1,12 +1,10 @@
 # ICT30018-Project-B
 
 
-Testing wordpress locally
-# Prerequisites
-
+# Testing Wordpress locally
+## Prerequisites
 Docker: install docker here https://docs.docker.com/engine/install/
-
-# Step 1 
+## Step 1 
 Create docker compose file `compose.yml` 
 ```yaml
 services:
@@ -40,7 +38,7 @@ volumes:
  ```
 
 
-# Step 2:
+## Step 2:
 open terminal at the file directory and run 
 ```
 docker compose up
